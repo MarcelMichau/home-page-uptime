@@ -9,9 +9,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /home-page-uptime
+  cname: status.marcelmichau.dev
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Status Page for Marcel Michau Home Page"
