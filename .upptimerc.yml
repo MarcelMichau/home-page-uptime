@@ -4,7 +4,7 @@ repo: home-page-uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: marcelmichau
+  - name: Marcel Michau
     url: https://marcelmichau.dev
     icon: https://raw.githubusercontent.com/MarcelMichau/home-page/master/src/images/mm-logo.png
 status-website:
