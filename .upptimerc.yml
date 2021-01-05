@@ -11,7 +11,7 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.marcelmichau.dev
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Marcel Michau Status
   introTitle: "Status Page for Marcel Michau Home Page"
   introMessage: This is a status page for monitoring the uptime of my personal website
   navbar:
