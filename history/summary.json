@@ -1,20 +1,20 @@
 [
   {
-    "name": "marcelmichau",
+    "name": "Marcel Michau",
     "url": "https://marcelmichau.dev",
     "icon": "https://raw.githubusercontent.com/MarcelMichau/home-page/master/src/images/mm-logo.png",
-    "slug": "marcelmichau",
+    "slug": "marcel-michau",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 144,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 144,
+    "time": 343,
+    "timeDay": 343,
+    "timeWeek": 343,
+    "timeMonth": 343,
+    "timeYear": 343,
     "dailyMinutesDown": {}
   }
 ]
