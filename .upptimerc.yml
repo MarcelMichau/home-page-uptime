@@ -7,9 +7,6 @@ sites:
   - name: Marcel Michau
     url: https://marcelmichau.dev
     icon: https://raw.githubusercontent.com/MarcelMichau/home-page/master/src/images/mm-logo.png
-  - name: Azure Static Web App Test
-    url: https://staticwebapp.marcelmichau.dev
-    icon: https://raw.githubusercontent.com/MarcelMichau/home-page/master/src/images/mm-logo.png
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.marcelmichau.dev
