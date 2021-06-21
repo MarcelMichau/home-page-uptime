@@ -11,32 +11,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 216,
-    "timeDay": 156,
-    "timeWeek": 119,
-    "timeMonth": 170,
+    "timeDay": 229,
+    "timeWeek": 142,
+    "timeMonth": 174,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2021-03-05": 24
-    }
-  },
-  {
-    "name": "Azure Static Web App Test",
-    "url": "https://staticwebapp.marcelmichau.dev",
-    "icon": "https://raw.githubusercontent.com/MarcelMichau/home-page/master/src/images/mm-logo.png",
-    "slug": "azure-static-web-app-test",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 271,
-    "timeWeek": 245,
-    "timeMonth": 268,
-    "timeYear": 269,
-    "dailyMinutesDown": {
-      "2021-06-21": 0
     }
   }
 ]
