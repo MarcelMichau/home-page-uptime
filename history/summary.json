@@ -4,7 +4,7 @@
     "url": "https://marcelmichau.dev",
     "icon": "https://raw.githubusercontent.com/MarcelMichau/home-page/master/src/images/mm-logo.png",
     "slug": "marcel-michau",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 223,
     "timeYear": 203,
     "dailyMinutesDown": {
+      "2022-01-27": 0,
       "2021-12-12": 27,
       "2021-03-05": 24
     }
