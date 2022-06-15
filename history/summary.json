@@ -4,19 +4,19 @@
     "url": "https://marcelmichau.dev",
     "icon": "https://raw.githubusercontent.com/MarcelMichau/home-page/master/src/images/mm-logo.png",
     "slug": "marcel-michau",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 207,
-    "timeDay": 136,
-    "timeWeek": 204,
-    "timeMonth": 236,
+    "time": 208,
+    "timeDay": 212,
+    "timeWeek": 221,
+    "timeMonth": 240,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2022-06-15": 0,
+      "2022-06-15": 14,
       "2021-12-12": 27
     }
   }
