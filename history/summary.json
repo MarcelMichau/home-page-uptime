@@ -11,12 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 191,
-    "timeWeek": 196,
-    "timeMonth": 204,
+    "timeDay": 152,
+    "timeWeek": 182,
+    "timeMonth": 202,
     "timeYear": 171,
-    "dailyMinutesDown": {
-      "2023-10-30": 21
-    }
+    "dailyMinutesDown": {}
   }
 ]
